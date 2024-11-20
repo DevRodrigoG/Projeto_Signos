@@ -1,0 +1,41 @@
+body {
+    background-color:black;
+}
+
+
+h1 {
+    margin: 20px 0 10px 0;
+    color: blue;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin-top: 50px;
+}
+label{
+    margin-left: 30%;
+    font-size: 1.2em;
+    color: blue;
+}
+
+a{
+    margin-top: 100px;
+    width: 100%;
+}
+
+button{
+    width: 100%;
+}
+
+.container {
+    max-width: 600px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.855);
+    border-radius: 7px;
+    padding: 10px 50px;
+}
+
+#Container_Inputs{
+    margin-top: 100px;
+}
+
